@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_pRd_AdASEeme-NuuybDUjw" label="mdmtest" description="" language="java" technicalLabel="MDMTEST" creationDate="2019-09-05T12:17:41.907-0700" author="_pRd_AtASEeme-NuuybDUjw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/srmmanjunath/mdmtest.git&quot;,&quot;login&quot;:&quot;srmmanjunath@gmail.com&quot;,&quot;passwd&quot;:&quot;VJh9hUs6bTWHowKPPpvjuw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_pRd_AtASEeme-NuuybDUjw" login="manjunath.kapu@thinkartha.com" firstName="Manju" lastName="Kapu" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
